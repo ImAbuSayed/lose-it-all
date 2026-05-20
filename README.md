@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan ch nasha tera lagda ae sweet paradise,
+> Tu sadha lai meri ban jaaven without a price.
+> Main har pal takda haan tainu breaking the ice,
+> Mera dil kenda ae aaja rolling the dice.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
